@@ -1,14 +1,20 @@
-# npm-package-template-tsup
+# npm-package-template-tsdown
 This is a template package to publish npm package with typescript and tsup.
 
-## tsup
-Bundle your TypeScript library with no config, powered by esbuild.
+## tsdown
+tsdown  
+The Elegant  
+Library Bundler  
+Powered by Rolldown
 
-https://tsup.egoist.dev/
+https://tsdown.dev/
 
 ## how to use this
 1. install dependencies
 ```
+# bun
+$ bun install
+
 # pnpm
 $ pnpm install
 
@@ -24,6 +30,9 @@ $ npm install
 once the command works properly, you will see `dist` folder.
 
 ```zsh
+# bun
+$ bun run build
+
 # pnpm
 $ pnpm run build
 
