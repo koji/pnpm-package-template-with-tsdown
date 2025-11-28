@@ -18,7 +18,7 @@
   "author": "koji kanao",
   "license": "ISC",
   "devDependencies": {
-    "tsdown": "^0.17.0-beta.1",
+    "tsdown": "^0.16.8",
     "typescript": "^5.9.3",
     "vitest": "^4.0.14"
   },
